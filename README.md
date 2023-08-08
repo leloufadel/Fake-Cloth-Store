@@ -1,4 +1,4 @@
-# LeaderBOARD
+# Cloth-Store
 <a name="readme-top"></a>
 <div align="center">
  <img src="https://as1.ftcdn.net/v2/jpg/05/06/45/92/1000_F_506459232_7RWXyXVU0ZapbSRlgPdnqdNexo0k2d8H.jpg" alt="logo" width="140"  height="auto" />
